@@ -1,0 +1,212 @@
+[
+            {
+               "title" : "Grumpy: Go running Python",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319904\">Comments</a>",
+               "link" : "https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html",
+               "comments" : "https://news.ycombinator.com/item?id=13319904",
+               "pubDate" : "Wed, 4 Jan 2017 17:00:39 +0000"
+            },
+            {
+               "link" : "http://www.nature.com/news/google-reveals-secret-test-of-ai-bot-to-beat-top-go-players-1.21253",
+               "comments" : "https://news.ycombinator.com/item?id=13320013",
+               "pubDate" : "Wed, 4 Jan 2017 17:12:54 +0000",
+               "title" : "Google reveals secret test of AI bot to beat top Go players",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13320013\">Comments</a>"
+            },
+            {
+               "pubDate" : "Wed, 4 Jan 2017 16:55:41 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13319849",
+               "link" : "https://www.muckrock.com/news/archives/2016/dec/13/richard-feynman-put-himself-fbis-do-not-call-list/",
+               "title" : "Richard Feynman Put Himself on the FBIâ€™s Do Not Call List",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319849\">Comments</a>"
+            },
+            {
+               "title" : "Rust on RTL8710 running FreeRTOS",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13320972\">Comments</a>",
+               "pubDate" : "Wed, 4 Jan 2017 18:50:27 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13320972",
+               "link" : "https://polyfractal.com/post/rustl8710/"
+            },
+            {
+               "title" : "Tesla Flips the Switch on the Gigafactory",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319482\">Comments</a>",
+               "comments" : "https://news.ycombinator.com/item?id=13319482",
+               "link" : "https://www.bloomberg.com/news/articles/2017-01-04/tesla-flips-the-switch-on-the-gigafactory",
+               "pubDate" : "Wed, 4 Jan 2017 16:17:54 +0000"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13317902",
+               "link" : "http://kevinhughes.ca/blog/tensor-kart",
+               "pubDate" : "Wed, 4 Jan 2017 13:04:07 +0000",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317902\">Comments</a>",
+               "title" : "TensorKart: self-driving MarioKart with TensorFlow"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13319307",
+               "link" : "https://stratechery.com/2017/amazons-operating-system/",
+               "pubDate" : "Wed, 4 Jan 2017 15:59:22 +0000",
+               "title" : "Alexa: Amazon's Operating System",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319307\">Comments</a>"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13320495\">Comments</a>",
+               "title" : "Notes for the New Year",
+               "comments" : "https://news.ycombinator.com/item?id=13320495",
+               "link" : "https://blog.ycombinator.com/notes-for-the-new-year/",
+               "pubDate" : "Wed, 4 Jan 2017 18:01:59 +0000"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13320579",
+               "pubDate" : "Wed, 4 Jan 2017 18:11:03 +0000",
+               "link" : "http://githubreportcard.com/",
+               "title" : "GitHub Report Card",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13320579\">Comments</a>"
+            },
+            {
+               "title" : "Show HN: PDFlower â€“ Reflow PDF papers for small-screen reading",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13318289\">Comments</a>",
+               "comments" : "https://news.ycombinator.com/item?id=13318289",
+               "pubDate" : "Wed, 4 Jan 2017 14:00:57 +0000",
+               "link" : "https://pdflower.com"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319678\">Comments</a>",
+               "title" : "SeaweedFS â€“ A simple and highly scalable distributed file system",
+               "link" : "https://github.com/chrislusf/seaweedfs",
+               "comments" : "https://news.ycombinator.com/item?id=13319678",
+               "pubDate" : "Wed, 4 Jan 2017 16:37:07 +0000"
+            },
+            {
+               "title" : "Isaac Asimov Asks, â€œHow Do People Get New Ideas?â€ (1959)",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317244\">Comments</a>",
+               "link" : "https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/",
+               "comments" : "https://news.ycombinator.com/item?id=13317244",
+               "pubDate" : "Wed, 4 Jan 2017 11:10:49 +0000"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317385\">Comments</a>",
+               "title" : "Video Games Satisfy Basic Human Needs",
+               "comments" : "https://news.ycombinator.com/item?id=13317385",
+               "link" : "http://nautil.us/blog/how-video-games-satisfy-basic-human-needs",
+               "pubDate" : "Wed, 4 Jan 2017 11:37:35 +0000"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13318588\">Comments</a>",
+               "title" : "LeoFS: a highly available, distributed, eventually consistent object/blob store",
+               "comments" : "https://news.ycombinator.com/item?id=13318588",
+               "pubDate" : "Wed, 4 Jan 2017 14:42:13 +0000",
+               "link" : "https://github.com/leo-project/leofs"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317836\">Comments</a>",
+               "title" : "Portacle â€“ A Portable Common Lisp Development Environment",
+               "link" : "https://shinmera.github.io/portacle/",
+               "comments" : "https://news.ycombinator.com/item?id=13317836",
+               "pubDate" : "Wed, 4 Jan 2017 12:55:59 +0000"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13320331\">Comments</a>",
+               "title" : "Deploying TLS 1.3: the great, the good and the bad [video]",
+               "link" : "https://media.ccc.de/v/33c3-8348-deploying_tls_1_3_the_great_the_good_and_the_bad",
+               "comments" : "https://news.ycombinator.com/item?id=13320331",
+               "pubDate" : "Wed, 4 Jan 2017 17:44:31 +0000"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13315780",
+               "pubDate" : "Wed, 4 Jan 2017 04:53:18 +0000",
+               "link" : "https://www.1843magazine.com/dispatches/the-daily/the-art-of-the-escort",
+               "title" : "The Art of the Motorcade",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13315780\">Comments</a>"
+            },
+            {
+               "link" : "https://blog.coralproject.net/the-real-name-fallacy/",
+               "comments" : "https://news.ycombinator.com/item?id=13313199",
+               "pubDate" : "Tue, 3 Jan 2017 21:18:56 +0000",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13313199\">Comments</a>",
+               "title" : "The Real Name Fallacy"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13317259",
+               "pubDate" : "Wed, 4 Jan 2017 11:13:59 +0000",
+               "link" : "https://inkscape.org/en/news/2017/01/04/inkscape-version-092-released/",
+               "title" : "Inkscape Version 0.92 is Released",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317259\">Comments</a>"
+            },
+            {
+               "title" : "Quantum computers ready to leap out of the lab in 2017",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317172\">Comments</a>",
+               "pubDate" : "Wed, 4 Jan 2017 10:57:15 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13317172",
+               "link" : "http://www.nature.com/news/quantum-computers-ready-to-leap-out-of-the-lab-in-2017-1.21239"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13319760",
+               "pubDate" : "Wed, 4 Jan 2017 16:45:38 +0000",
+               "link" : "https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319760\">Comments</a>",
+               "title" : "Analyzing honeypot interactions"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13321322",
+               "link" : "https://blog.medium.com/renewing-mediums-focus-98f374a960be",
+               "pubDate" : "Wed, 4 Jan 2017 19:34:08 +0000",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13321322\">Comments</a>",
+               "title" : "Renewing Mediumâ€™s focus"
+            },
+            {
+               "pubDate" : "Wed, 4 Jan 2017 15:41:23 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13319122",
+               "link" : "http://blog.alexellis.io/functions-as-a-service/",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319122\">Comments</a>",
+               "title" : "Show HN: Functions as a Service (FaaS) on Docker Swarm"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317546\">Comments</a>",
+               "title" : "2016â€™s Business Winners and Losers",
+               "pubDate" : "Wed, 4 Jan 2017 12:04:25 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13317546",
+               "link" : "http://www.swotnot.com/2016s-business-winners-losers/"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13318990\">Comments</a>",
+               "title" : "Sweden reveals results from pilot of 6-hour working day",
+               "pubDate" : "Wed, 4 Jan 2017 15:26:28 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13318990",
+               "link" : "http://www.independent.co.uk/news/business/news/sweden-six-hour-working-day-too-expensive-scrapped-experiment-cothenburg-pilot-scheme-a7508581.html"
+            },
+            {
+               "comments" : "https://news.ycombinator.com/item?id=13315896",
+               "link" : "http://transition.fcc.gov/eb/Orders/2015/FCC-15-146A1.html",
+               "pubDate" : "Wed, 4 Jan 2017 05:32:07 +0000",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13315896\">Comments</a>",
+               "title" : "$718K penalty against M.C. Dean for blocking Wi-Fi devices (2015)"
+            },
+            {
+               "title" : "Dropbox Could Have One of 2017â€™s Most Interesting IPOs",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13321503\">Comments</a>",
+               "pubDate" : "Wed, 4 Jan 2017 19:56:32 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13321503",
+               "link" : "https://www.technologyreview.com/s/603204/dropbox-could-have-one-of-2017s-most-interesting-ipos/?utm_campaign=internal&utm_medium=readnext&utm_source=item_2"
+            },
+            {
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13319933\">Comments</a>",
+               "title" : "Smarking (YC W15) Is Hiring a Senior PM and Many More in SF",
+               "link" : "http://www.smarking.org/",
+               "comments" : "https://news.ycombinator.com/item?id=13319933",
+               "pubDate" : "Wed, 4 Jan 2017 17:03:38 +0000"
+            },
+            {
+               "title" : "Renewing Mediumâ€™s focus",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13321435\">Comments</a>",
+               "comments" : "https://news.ycombinator.com/item?id=13321435",
+               "link" : "https://blog.medium.com/renewing-mediums-focus-98f374a960be#.3re4mqcmu",
+               "pubDate" : "Wed, 4 Jan 2017 19:48:34 +0000"
+            },
+            {
+               "title" : "EWAH â€“ A compressed bitmap class in C++",
+               "description" : "<a href=\"https://news.ycombinator.com/item?id=13317959\">Comments</a>",
+               "pubDate" : "Wed, 4 Jan 2017 13:15:39 +0000",
+               "comments" : "https://news.ycombinator.com/item?id=13317959",
+               "link" : "https://github.com/lemire/ewahboolarray"
+            }
+]
