@@ -1,24 +1,24 @@
 [
-    "Hacker News" : {
-        "id": "1",
-        "link" : "https://news.ycombinator.com/",
-        "title" : "Hacker News",
-        "description" : "Links for the intellectually curious, ranked by readers."
-    },
-    "NYT > World" : {
-         "id": "2",
-         "image" : {
-            "title" : "NYT > World",
-            "url" : "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
-            "link" : "http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss"
-         },
-         "description" : "",
-         "copyright" : "Copyright 2017  The New York Times Company",
-         "link" : [
-            "http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
-         ],
-         "title" : "NYT > World",
-         "lastBuildDate" : "Wed, 04 Jan 2017 20:02:34 GMT ",
-         "language" : "en-us"
-    }
+{
+    "id": "1",
+    "link" : "https://news.ycombinator.com/",
+    "title" : "Hacker News",
+    "description" : "Links for the intellectually curious, ranked by readers."
+},
+{
+        "id": "2",
+        "image" : {
+        "title" : "NYT > World",
+        "url" : "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png",
+        "link" : "http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss"
+        },
+        "description" : "",
+        "copyright" : "Copyright 2017  The New York Times Company",
+        "link" : [
+        "http://www.nytimes.com/pages/world/index.html?partner=rss&emc=rss",
+        ],
+        "title" : "NYT > World",
+        "lastBuildDate" : "Wed, 04 Jan 2017 20:02:34 GMT ",
+        "language" : "en-us"
+}
 ]
